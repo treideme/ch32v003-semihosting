@@ -3,7 +3,7 @@
 This example demonstrates how to use the semihosting feature of the RISCV using
 a customized openocd port from WCH's openocd sources.
 
- * See [my blog](FIXME) for more information.
+ * See [my blog](https://reidemeister.com/blog/2023.08.25) for more information.
 
 ## Building OpenOCD
  * Clone my patched [openocd repository](https://github.com/treideme/openocd-hacks)
